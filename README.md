@@ -27,6 +27,6 @@ Unity エディタの Game ビューに iPhone X のセーフエリアを表示�
 
 ## 補足
 
-「iPhoneXSafeAreaDrawer」は下記のリポジトリを参考にさせていただいております  
+「iPhone X Safe Area Drawer」は下記のリポジトリを参考にさせていただいております  
 
 - https://github.com/ianwaldrop/iPhoneX-overlay
