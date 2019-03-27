@@ -1,4 +1,4 @@
-# iPhoneXSafeAreaDrawer
+# iPhone X Safe Area Drawer
 
 Unity エディタの Game ビューに iPhone X のセーフエリアを表示できるエディタ拡張
 
